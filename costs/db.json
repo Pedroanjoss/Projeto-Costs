@@ -11,7 +11,6 @@
       "services": [],
       "id": 1
     },
-    
     {
       "name": "Primeiro Projeto",
       "budget": "5000",
@@ -132,6 +131,39 @@
       "cost": 0,
       "services": [],
       "id": 18
+    },
+    {
+      "name": "Outro Projeto",
+      "budget": "550",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 19
+    },
+    {
+      "name": "! Projeto",
+      "budget": "1200",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 20
+    },
+    {
+      "name": "Pedro",
+      "budget": "1200",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 21
     }
   ],
   "categories": [
