@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "123",
-      "budget": "122",
+      "budget": "1220",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -12,11 +12,11 @@
       "id": 1
     },
     {
-      "name": "projeto",
-      "budget": "123",
+      "name": "atualizacao",
+      "budget": "1200",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
