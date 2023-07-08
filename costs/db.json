@@ -7,8 +7,15 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 200,
+      "services": [
+        {
+          "cost": "200",
+          "name": "Pedro",
+          "description": "asd",
+          "id": "bfa81172-b5f4-4966-a6e8-a2a5858f2878"
+        }
+      ],
       "id": 1
     },
     {
