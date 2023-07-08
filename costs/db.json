@@ -7,13 +7,19 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 200,
+      "cost": 500,
       "services": [
         {
           "cost": "200",
           "name": "Pedro",
           "description": "asd",
           "id": "bfa81172-b5f4-4966-a6e8-a2a5858f2878"
+        },
+        {
+          "name": "Teste 2",
+          "cost": "300",
+          "description": "Servico de teste",
+          "id": "d8bced84-e698-4053-8c15-640aa59fa745"
         }
       ],
       "id": 1
