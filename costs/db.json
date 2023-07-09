@@ -1,43 +1,43 @@
 {
   "projects": [
     {
-      "name": "123",
-      "budget": "1220",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 200,
-      "services": [
-        {
-          "cost": "200",
-          "name": "Pedro",
-          "description": "asd",
-          "id": "bfa81172-b5f4-4966-a6e8-a2a5858f2878"
-        }
-      ],
-      "id": 1
-    },
-    {
-      "name": "atualizacao",
-      "budget": "1200",
+      "name": "Primeiro Projeto",
+      "budget": "5000",
       "category": {
         "id": "4",
         "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Update do Sistema",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
       "id": 2
     },
     {
-      "name": "Projeto de Teste",
-      "budget": "1200",
+      "name": "Computadores Novos",
+      "budget": "7000",
       "category": {
-        "id": "4",
-        "name": "Planejamento"
+        "id": "1",
+        "name": "Infra"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 1200,
+      "services": [
+        {
+          "name": "Contratação de um técnico",
+          "cost": "1200",
+          "description": "Contratar um técnico para auxiliar na montagem das novas máquinas",
+          "id": "dc769131-c4c9-481f-a868-3a39d4f00200"
+        }
+      ],
       "id": 3
     }
   ],
